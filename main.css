@@ -18,7 +18,7 @@ body {
 
 .card:hover {
 	border-top: 5px solid blue;
-	top: -4px;
+	top: -1px;
 	transition: 0.5s;
 	transition-timing-function: ease-in-out;
 }
